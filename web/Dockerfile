@@ -3,4 +3,4 @@ ADD . /code
 WORKDIR /code
 RUN pip install flask
 CMD ["python", "app.py"]
-# EXPOSE 5005
+# EXPOSE 5000
