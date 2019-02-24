@@ -1,3 +1,5 @@
+flask-v2 版本演示使用**配置挂载**的方式，并且使用 gunicorn 启动 flask 服务
+
 # 最小化一个 docker flask 项目
 
 在 Docker 容器内启动 flask 项目
