@@ -1,3 +1,7 @@
+flask-v1 分支演示拷贝的方式运行 flask，[参考](http://www.patricksoftwareblog.com/how-to-use-docker-and-docker-compose-to-create-a-flask-application/)
+
+----
+
 # 最小化一个 docker flask 项目
 
 在 Docker 容器内启动 flask 项目
