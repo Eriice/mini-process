@@ -1,3 +1,5 @@
+flask-v4 使用复制的形式将项目拷贝至容器中，而不是原来的使用卷挂载的模式，因为卷挂载的模式会在centos 和 mac 上有区别。
+
 # 最小化一个 docker flask 项目
 
 在 Docker 容器内启动 flask 项目
