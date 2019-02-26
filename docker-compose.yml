@@ -3,11 +3,10 @@ services:
   web:
     restart: always
     build: ./web
-    volumes:
-      - $PWD/web:/home/flask/web
+    # volumes:
+    #   - $PWD/web:/home/flask/web
     expose:
       - "5000"
-    #   - "80:5000"
   nginx:
     restart: always
     build: ./nginx
